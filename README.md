@@ -1,4 +1,0 @@
-map-reduce
-==========
-
-MapReduce standalone
